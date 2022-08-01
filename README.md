@@ -4,9 +4,9 @@
 
 Trabajo realizado con:
 
-⭐️ https://github.com/jemi14
+⭐️ Maria Laura Pallares: https://github.com/jemi14
 
-⭐️ https://github.com/mlpallares
+⭐️ Griselda Benitez Haugg: https://github.com/mlpallares
 
 
 Se nos solicita llevar adelante el análisis, diseño e implementación de una solución para la facturación de una
