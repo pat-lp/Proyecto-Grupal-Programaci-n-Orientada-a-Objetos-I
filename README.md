@@ -1,4 +1,4 @@
-# Proyecto-Grupal-Programacion-Orientada-a-Objetos-I
+## Proyecto Grupal de la materia **Programación Orientada a Objetos I**.
 
 Trabajo realizado con:
 
