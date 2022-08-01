@@ -1,6 +1,6 @@
 ## Proyecto Grupal de la materia **Programación Orientada a Objetos I** 
 
-**"Software de Distribuidora Eléctica EdeUNLa"**
+**"Software de Distribuidora Eléctrica EdeUNLa"**
 
 Trabajo realizado con:
 
