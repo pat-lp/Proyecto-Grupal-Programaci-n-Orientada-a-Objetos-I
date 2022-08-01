@@ -1,13 +1,12 @@
-## Proyecto Grupal de la materia **Programación Orientada a Objetos I**.
+## Proyecto Grupal de la materia **Programación Orientada a Objetos I** 
+
+**"Software de Distribuidora Eléctica EdeUNLa"**
 
 Trabajo realizado con:
 
 ⭐️ https://github.com/jemi14
 
 ⭐️ https://github.com/mlpallares
-
-
-**Software de Distribuidora Eléctica EdeUNLa**
 
 
 Se nos solicita llevar adelante el análisis, diseño e implementación de una solución para la facturación de una
